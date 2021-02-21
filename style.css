@@ -180,12 +180,13 @@ select {
     outline: none;
     box-shadow: none;
     border: none;
+    background: white;
   }
   .select {
     margin-right: -0.5rem;
     position: relative;
     width: 7rem;
-    background-image: white;
+    
     overflow: hidden;
   }
 
