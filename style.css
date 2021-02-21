@@ -159,7 +159,7 @@ select {
     padding: 0.5rem;
     height: 3rem;
     margin-left: -0.3rem;
-    width: 4.7rem;
+    width: 5rem;
 
     font-size: 0.8rem;
     border: none;
@@ -184,7 +184,7 @@ select {
   .select {
     margin-right: -0.5rem;
     position: relative;
-    width: 4.7rem;
+    width: 5rem;
     overflow: hidden;
   }
 
