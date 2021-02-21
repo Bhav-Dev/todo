@@ -206,4 +206,15 @@ select {
     background: #ff6f47;
     color: white;
   }
+    body {
+    background-image: linear-gradient(
+      120deg,
+      #f8d358,
+      #fc9477,
+      #bca3ff,
+      #77fcea
+    );
+    background-size: 300% 300%;
+    animation: change 10s ease-in-out infinite;
+  }
 }
