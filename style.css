@@ -185,6 +185,7 @@ select {
     margin-right: -0.5rem;
     position: relative;
     width: 7rem;
+    background-color: white;
     overflow: hidden;
   }
 
