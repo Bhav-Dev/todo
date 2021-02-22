@@ -190,17 +190,12 @@ select {
     overflow: hidden;
   }
 
-  .select::after {
+ .select::after {
   content: "\25BC";
-  font-size: 1rem;
   position: absolute;
   top: 0;
   right: 0;
-  margin-top: 0.7rem;
-  margin-right: 0.7rem;
-  text-align: center;
-  height: 1.5rem;
-  width: 1.5rem;
+  padding: 1rem;
   background: #ff6f47;
   cursor: pointer;
   pointer-events: none;
